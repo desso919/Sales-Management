@@ -11,3 +11,9 @@ C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Ma
 C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Management\Sales.Management\obj\Debug\Sales.Management.csproj.GenerateResource.Cache
 C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Management\Sales.Management\obj\Debug\Sales.Management.exe
 C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Management\Sales.Management\obj\Debug\Sales.Management.pdb
+C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Management\Sales.Management\obj\Debug\Register.baml
+C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Management\Sales.Management\obj\Debug\Register.g.cs
+C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Management\Sales.Management\bin\Debug\EntityFramework.dll
+C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Management\Sales.Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Management\Sales.Management\bin\Debug\EntityFramework.xml
+C:\Users\Десислав\Documents\GitHub\PTS_Project\Sales-Management\Sales.Management\Sales.Management\bin\Debug\EntityFramework.SqlServer.xml

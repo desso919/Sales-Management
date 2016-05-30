@@ -1,11 +1,12 @@
 ﻿<Window x:Class="Sales.Management.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:System.Windows.Controls;assembly=PresentationFramework"
         Title="Sales Management" Height="550" Width="900">
-    
-    <Grid>
+
+    <Grid>         
         <Grid.RowDefinitions>
-            <RowDefinition/>
+        <RowDefinition/>
         </Grid.RowDefinitions>
 
         <Grid.ColumnDefinitions>
@@ -16,6 +17,10 @@
             <ImageBrush ImageSource="sales.jpg"/>
         </Grid.Background>
 
+        <local:Frame Name="MainFrame" NavigationUIVisibility="Hidden">
+
+        </local:Frame>
+        
         <!-- Application Name -->
         <Label Content="Sales Management Application" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"  
                Width="832" FontStyle="Italic" FontSize="25" FontStretch="Condensed" FontWeight="Bold" Height="38"/>

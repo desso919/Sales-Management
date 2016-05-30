@@ -23,11 +23,14 @@ namespace Sales.Management
         public MainWindow()
         {
             InitializeComponent();
+ 
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            // insert authorization logic here
+            //MainFrame.Navigate(new Uri("Register.xaml", UriKind.Relative));
+            MainFrame.NavigationService.Navigate(new Uri("Register.xaml", UriKind.Relative));
         }
     }
 }
